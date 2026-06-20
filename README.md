@@ -1,6 +1,3 @@
-# HousePricePrediction
-House Price Prediction using Machine Learning with Linear Regression and Random Forest. Includes data preprocessing, feature analysis, visualization, and model evaluation on a real-world housing dataset.
-
 # House Price Prediction
 
 This project focuses on predicting house prices using Machine Learning techniques. The housing dataset was cleaned, analyzed, and preprocessed before training Linear Regression and Random Forest Regression models.
